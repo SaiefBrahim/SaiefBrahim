@@ -14,9 +14,9 @@
 
 - 👨‍💻 All of my projects are available at [Saief Brahim](https://vercel.com/saiefibrahim)
 
-<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=SaiefBrahim&theme=great-gatsby&hide_border=true" alt="SaiefBrahim"/>
-
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/saiefbrahim/)
+
+<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=SaiefBrahim&theme=great-gatsby&hide_border=true" alt="SaiefBrahim"/>
 
 - 💬 Ask me about **React, NodeJs, APIs, Javascript**
 
