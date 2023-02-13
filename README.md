@@ -33,7 +33,7 @@
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![php](https://img.shields.io/badge/Php-3178C6?style=for-the-badge&logo=php&logoColor=F7DF1E)
+![php](https://img.shields.io/badge/Php-323330?style=for-the-badge&logo=php&logoColor=blue)
 
 
 ### Back-End Development
@@ -51,11 +51,10 @@
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![graphql](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
-![rest-apis](https://img.shields.io/badge/Rest_APIs-E434AA?style=for-the-badge&logo=rest-api&logoColor=white)
+![rest-apis](https://img.shields.io/badge/Rest_APIs-E434AA?style=for-the-badge&logo=rest-apis&logoColor=white)
 
 ### Platform as a Service (PaaS)
 
