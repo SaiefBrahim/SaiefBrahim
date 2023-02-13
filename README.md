@@ -6,11 +6,11 @@
 
 
 
-- 🔭 I’m currently working on [CRM SEEDEVS](https://vercel.com/saiefibrahim)
+- 🔭 I’m currently working on [SEE BRAND App](https://seebrand.vercel.app)
 
 - 🌱 I’m currently learning **Typescript,React Native**
 
-- 👯 I’m looking to collaborate on **Car Pooling App**
+- 👯 I’m looking to collaborate on **E-commerce Web App**
 
 - 👨‍💻 All of my projects are available at [Saief Brahim](https://vercel.com/saiefibrahim)
 
@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **seefbrahim@gmail.com**
 
-- ⚡ Fun fact **I can't sleep before debugging my code**
+- ⚡ Fun fact **I can't sleep till my code is ready for production**
 
 
 
@@ -33,11 +33,16 @@
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![php](https://img.shields.io/badge/Php-3178C6?style=for-the-badge&logo=php&logoColor=blue)
+
 
 ### Back-End Development
 
 ![NodeJs](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=76B900)
 ![Express](https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=white)
+![NextJs](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-20232A?style=for-the-badge&logo=laravel&logoColor=white)
+
 
 ### Front-End Development
 
@@ -61,8 +66,8 @@
 
 ### 🖥️ Workspace Setup
 
-![i5-8th-gen](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![gtx-1060](https://img.shields.io/badge/NVIDIA-MX_110-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![i3-10th-gen](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![gtx-1650](https://img.shields.io/badge/NVIDIA-GTX_1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
