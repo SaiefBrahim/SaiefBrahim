@@ -54,7 +54,7 @@
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![graphql](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
-![rest-apis](https://img.shields.io/badge/Rest_APIs-E434AA?style=for-the-badge&logo=rest-apis&logoColor=white)
+![rest-apis](https://img.shields.io/badge/Rest_APIs-20232A?style=for-the-badge&logo=api&logoColor=white)
 
 ### Platform as a Service (PaaS)
 
