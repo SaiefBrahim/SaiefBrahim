@@ -2,7 +2,6 @@
 <h3 align="center">A Full-Stack developer from Tunisia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SaiefBrahim&color=orange" alt="SaiefBrahim" /> </p>
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=SaiefBrahim&show_icons=true&theme=great-gatsby&hide_border=true" alt="SaiefBrahim"/>
 
 
 
