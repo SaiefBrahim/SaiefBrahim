@@ -3,6 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SaiefBrahim&color=orange" alt="SaiefBrahim" /> </p>
 
 
+<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=SaiefBrahim&theme=great-gatsby&hide_border=true" alt="SaiefBrahim"/>
 
 
 - 🔭 I’m currently working on [SEE BRAND App](https://seebrand.vercel.app)
@@ -15,7 +16,7 @@
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/saiefbrahim/)
 
-<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=SaiefBrahim&theme=great-gatsby&hide_border=true" alt="SaiefBrahim"/>
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiefBrahim&layout=compact&theme=great-gatsby&hide_border=true" alt="SaiefBrahim" />
 
 - 💬 Ask me about **React, NodeJs, APIs, Javascript**
 
@@ -26,7 +27,6 @@
 
 
 ## 🛠️ Skills
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiefBrahim&layout=compact&theme=great-gatsby&hide_border=true" alt="SaiefBrahim" />
 
 ### Programming Languages
 
